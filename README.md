@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-web developer
+I'm a web developer
 
 I love coding and learn new stuff, I'm currently dealing with JS.
 
